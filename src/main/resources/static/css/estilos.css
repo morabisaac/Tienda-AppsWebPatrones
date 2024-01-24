@@ -1,0 +1,14 @@
+#tituloPrincipal {
+    color: dodgerblue;
+    font-family: sans-serif;
+}
+
+.parrafoSecundario{
+    color: darkblue;
+    font-size: 20px;
+}
+
+p {
+    background-color: lightblue;
+    
+}
