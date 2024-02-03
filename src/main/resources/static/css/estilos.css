@@ -12,3 +12,44 @@ p {
     background-color: lightblue;
     
 }
+
+a:link{
+    color:chocolate;
+    
+}
+
+a:visited{
+    color:darkgreen;
+    
+}
+
+a:hover{
+    background-color: black;
+    color:white;
+    border-radius: 25px;
+    transition:1s;
+}
+
+a:active{
+    background-color:red;
+    color:black;
+    
+}
+
+p:nth-child(odd){
+    background-color: lightcoral;
+}
+
+p:nth-child(even){
+    background-color: green;
+}
+
+.contenedor{
+    top: 12%;
+    left:0%;
+    background-color: gray;
+    margin:0px;
+    padding:10px;
+    width:100%;
+    position:fixed;
+}
